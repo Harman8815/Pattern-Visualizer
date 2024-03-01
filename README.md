@@ -39,14 +39,13 @@ https://github.com/Harman8815/Pattern-Visualizer-GUI/assets/115714095/3de108f5-4
 
 **Prerequisites:**
    - You must have JDK installed on your system.
-   - Simply open and run the `PatternVisualizerGUI.java` file. ⚙️
+   - Simply open and run the `Main.java` file. ⚙️
    - Follow the on-screen instructions to use the visualizer.
 
 ## 🛠️ How to Use
 
 1. Run the Java Pattern Visualizer GUI.
-2. Enter the number of rows and columns for the pattern.
-3. Click the pattern to generate and display the pattern.
-4. Explore different patterns.
+2. Click the pattern to generate and display the pattern.
+3. Explore different patterns.
 
 Visualize various patterns with ease using the Java Pattern Visualizer GUI!
