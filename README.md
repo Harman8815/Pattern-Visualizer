@@ -1,4 +1,4 @@
-# 🎨 Project Title: Java Pattern Visualizer GUI
+# 🎨  Java Pattern Visualizer GUI
 
 ## 📝 Description
 
